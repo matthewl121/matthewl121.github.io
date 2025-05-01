@@ -30,13 +30,6 @@
     max-width: 650px;
 }
 
-.slides h1 {
-    font-size: 100px;
-    font-weight: 600;
-    max-width: 650px;
-    align-items: center;
-}
-
 .intro {
     background: linear-gradient(454deg, #00aeff, #0019a5)
 }
