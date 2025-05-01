@@ -46,3 +46,19 @@
 .slide3 {
     background: linear-gradient(454deg, #9574ff, #ff5353)
 }
+
+.menubar {
+    width: fit-content;
+    position: absolute;
+    right: 100px;
+}
+
+.menuitem {
+    float: left;
+    padding: 5px;
+    margin: 15px;
+    margin-left: 10px;
+    font-weight: 600;
+    cursor: pointer;
+    border-bottom: none;
+}
