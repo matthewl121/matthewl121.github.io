@@ -20,6 +20,10 @@
     color: #ffffff;
 }
 
+.intro {
+    background: linear-gradient(454deg, #007ec7, #0145d6)
+}
+
 .slides img {
     width: 350px;
 }
