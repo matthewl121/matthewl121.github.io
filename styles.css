@@ -24,12 +24,6 @@
     width: 350px;
 }
 
-.slides h1 {
-    font-size: 70px;
-    font-weight: 600;
-    max-width: 650px;
-}
-
 .slides h2 {
     font-size: 70px;
     font-weight: 600;
@@ -37,7 +31,7 @@
 }
 
 .intro {
-    background: linear-gradient(454deg, #002ec7, #0074d3)
+    background: linear-gradient(454deg, #00aeff, #0019a5)
 }
 
 .slide1 {
