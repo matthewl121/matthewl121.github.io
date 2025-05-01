@@ -20,10 +20,6 @@
     color: #ffffff;
 }
 
-.intro {
-    background: linear-gradient(454deg, #007ec7, #0145d6)
-}
-
 .slides img {
     width: 350px;
 }
@@ -32,6 +28,10 @@
     font-size: 70px;
     font-weight: 600;
     max-width: 650px;
+}
+
+.intro {
+    background: linear-gradient(454deg, #002ec7, #0074d3)
 }
 
 .slide1 {
