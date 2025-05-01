@@ -33,3 +33,15 @@
     font-weight: 600;
     max-width: 650px;
 }
+
+.slide1 {
+    background: linear-gradient(454deg, #4f4080, #9553ff)
+}
+
+.slide2 {
+    background: linear-gradient(454deg, #4f4c80, #53ff88)
+}
+
+.slide3 {
+    background: linear-gradient(454deg, #9574ff, #ff5353)
+}
