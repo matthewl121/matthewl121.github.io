@@ -18,6 +18,7 @@
     justify-content: center;
     gap: 50px;
     color: #ffffff;
+    scroll-snap-align: start;
 }
 
 .slides img {
